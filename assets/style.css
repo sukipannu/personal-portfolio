@@ -199,7 +199,6 @@ footer {
 }
 
 .trainer-bio {
-    paddng: 35px;
     float: left;
     width: 65%;
 }
@@ -216,6 +215,11 @@ footer {
   
   .primary-border {
     border-color: var(--primary-color);
+  }
+
+  .container-1 {
+    text-align: center;
+    color: var(--tertiary-color);
   }
 
   .container {
